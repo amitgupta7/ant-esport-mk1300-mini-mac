@@ -8,6 +8,6 @@ settings:
 * map `caps` key to `hyper`
 * map `hyper+fn_arrows` to arrows 
 * map `hyper` to esc 
-* map `esc` to ```~` 
+* map `esc` to ` \`~ ` 
 * map `hyper+uiop` to pg-up, home, end, pg-dn
 * map `hyper+;'` to alt-left and alt-right (move words)
