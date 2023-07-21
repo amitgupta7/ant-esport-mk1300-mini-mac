@@ -149,7 +149,7 @@
                             {
                                 "description": "Move to the beginning of the current line",
                                 "from": {
-                                    "key_code": "i",
+                                    "key_code": "j",
                                     "modifiers": {
                                         "mandatory": [
                                             "left_command",
@@ -172,7 +172,7 @@
                             {
                                 "description": "Move to the end of the current line",
                                 "from": {
-                                    "key_code": "o",
+                                    "key_code": "n",
                                     "modifiers": {
                                         "mandatory": [
                                             "left_command",
@@ -195,7 +195,7 @@
                             {
                                 "description": "Move to the top of the current page",
                                 "from": {
-                                    "key_code": "u",
+                                    "key_code": "k",
                                     "modifiers": {
                                         "mandatory": [
                                             "left_command",
@@ -215,7 +215,7 @@
                             {
                                 "description": "Move to the bottom of the current page",
                                 "from": {
-                                    "key_code": "p",
+                                    "key_code": "m",
                                     "modifiers": {
                                         "mandatory": [
                                             "left_command",
@@ -228,6 +228,26 @@
                                 "to": [
                                     {
                                         "key_code": "page_down"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "description": "Delete forward",
+                                "from": {
+                                    "key_code": "b",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "left_command",
+                                            "left_control",
+                                            "left_option",
+                                            "left_shift"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "delete_forward"
                                     }
                                 ],
                                 "type": "basic"
