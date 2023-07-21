@@ -4,7 +4,7 @@ This repo is a collection of mods to make mk1300-mini 60pc keyboard work with ma
 ```shell
 brew install --cask karabiner-elements
 ```
-Update ~/.config/karabiner/karabiner.json.
+Update ~/.config/karabiner/karabiner.json. This basically makes the caps lock key as the fn key (with hyper keymapping), making the keyboard more ergonomical to use. 
 
 ## settings: 
 * map `menu` to `right_option`
