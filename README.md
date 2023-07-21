@@ -12,7 +12,6 @@ Update `~/.config/karabiner/karabiner.json`. This basically makes the caps lock 
 * map `command` keys to `option`
 * map `caps` key to `hyper`
 * map `hyper+fn_arrows` to arrows 
-* map `hyper` to esc 
 * map `esc` to `` `~ `` 
 * map `hyper+kjnmb` to pg-up, home, end, pg-dn, delete
 * map `hyper+;'` to alt-left and alt-right (move words)
