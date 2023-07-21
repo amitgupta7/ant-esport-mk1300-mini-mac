@@ -9,5 +9,5 @@ settings:
 * map `hyper+fn_arrows` to arrows 
 * map `hyper` to esc 
 * map `esc` to `` `~ `` 
-* map `hyper+uiop` to pg-up, home, end, pg-dn
+* map `hyper+kjnmb` to pg-up, home, end, pg-dn, delete
 * map `hyper+;'` to alt-left and alt-right (move words)
